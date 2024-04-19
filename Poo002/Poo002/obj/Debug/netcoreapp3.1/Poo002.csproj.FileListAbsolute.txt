@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\Poo002\Poo002\bin\Debug\netcoreapp3.1\Poo002.exe
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\Poo002\Poo002\bin\Debug\netcoreapp3.1\Poo002.deps.json
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\Poo002\Poo002\bin\Debug\netcoreapp3.1\Poo002.runtimeconfig.json
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\Poo002\Poo002\bin\Debug\netcoreapp3.1\Poo002.runtimeconfig.dev.json
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\Poo002\Poo002\bin\Debug\netcoreapp3.1\Poo002.dll
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\Poo002\Poo002\bin\Debug\netcoreapp3.1\Poo002.pdb
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\Poo002\Poo002\obj\Debug\netcoreapp3.1\Poo002.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\Poo002\Poo002\obj\Debug\netcoreapp3.1\Poo002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\Poo002\Poo002\obj\Debug\netcoreapp3.1\Poo002.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\Poo002\Poo002\obj\Debug\netcoreapp3.1\Poo002.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\Poo002\Poo002\obj\Debug\netcoreapp3.1\Poo002.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\Poo002\Poo002\obj\Debug\netcoreapp3.1\Poo002.dll
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\Poo002\Poo002\obj\Debug\netcoreapp3.1\Poo002.pdb
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\Poo002\Poo002\obj\Debug\netcoreapp3.1\Poo002.genruntimeconfig.cache
