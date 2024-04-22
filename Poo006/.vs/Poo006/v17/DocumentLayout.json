@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gabriel\\Documents\\Curso C#\\Exerc\u00EDcios Propostos - POO\\Poo006\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91762CE4-A1E5-4EEE-9C65-0DE9F527B6BC}|Poo006\\Poo006.csproj|c:\\users\\gabriel\\documents\\curso c#\\exerc\u00EDcios propostos - poo\\poo006\\poo006\\conversordemoeda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91762CE4-A1E5-4EEE-9C65-0DE9F527B6BC}|Poo006\\Poo006.csproj|solutionrelative:poo006\\conversordemoeda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91762CE4-A1E5-4EEE-9C65-0DE9F527B6BC}|Poo006\\Poo006.csproj|c:\\users\\gabriel\\documents\\curso c#\\exerc\u00EDcios propostos - poo\\poo006\\poo006\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91762CE4-A1E5-4EEE-9C65-0DE9F527B6BC}|Poo006\\Poo006.csproj|solutionrelative:poo006\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConversorDeMoeda.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Documents\\Curso C#\\Exerc\u00EDcios Propostos - POO\\Poo006\\Poo006\\ConversorDeMoeda.cs",
+              "RelativeDocumentMoniker": "Poo006\\ConversorDeMoeda.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Documents\\Curso C#\\Exerc\u00EDcios Propostos - POO\\Poo006\\Poo006\\ConversorDeMoeda.cs",
+              "RelativeToolTip": "Poo006\\ConversorDeMoeda.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T05:22:50.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Documents\\Curso C#\\Exerc\u00EDcios Propostos - POO\\Poo006\\Poo006\\Program.cs",
+              "RelativeDocumentMoniker": "Poo006\\Program.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Documents\\Curso C#\\Exerc\u00EDcios Propostos - POO\\Poo006\\Poo006\\Program.cs",
+              "RelativeToolTip": "Poo006\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T05:22:49.172Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
