@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\Poo008\Poo008\bin\Debug\net8.0\Poo008.exe
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\Poo008\Poo008\bin\Debug\net8.0\Poo008.deps.json
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\Poo008\Poo008\bin\Debug\net8.0\Poo008.runtimeconfig.json
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\Poo008\Poo008\bin\Debug\net8.0\Poo008.dll
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\Poo008\Poo008\bin\Debug\net8.0\Poo008.pdb
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\Poo008\Poo008\obj\Debug\net8.0\Poo008.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\Poo008\Poo008\obj\Debug\net8.0\Poo008.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\Poo008\Poo008\obj\Debug\net8.0\Poo008.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\Poo008\Poo008\obj\Debug\net8.0\Poo008.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\Poo008\Poo008\obj\Debug\net8.0\Poo008.dll
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\Poo008\Poo008\obj\Debug\net8.0\refint\Poo008.dll
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\Poo008\Poo008\obj\Debug\net8.0\Poo008.pdb
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\Poo008\Poo008\obj\Debug\net8.0\Poo008.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\Poo008\Poo008\obj\Debug\net8.0\ref\Poo008.dll
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\Poo008\Poo008\obj\Debug\net8.0\Poo008.sourcelink.json
