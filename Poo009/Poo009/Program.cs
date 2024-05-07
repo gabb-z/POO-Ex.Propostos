@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Globalization;
 using System.Collections.Generic;
 using Poo009;
 
@@ -8,7 +7,7 @@ Console.Write("Quantos funcionários deseja cadastrar: ");
 int nFunc = int.Parse(Console.ReadLine());
 
 //Declaração de Lista - Funcionário
-List<Funcionario> listaFunc =  new List<Funcionario>();
+List<Funcionario> listaFunc = new List<Funcionario>();
 
 //Entrada de Dados - Dados do Funcionário
 for (int i = 1; i <= nFunc; i++)
