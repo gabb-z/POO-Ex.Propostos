@@ -7,6 +7,7 @@ C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\Poo009\Poo009\ob
 C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\Poo009\Poo009\obj\Debug\net8.0\Poo009.AssemblyInfoInputs.cache
 C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\Poo009\Poo009\obj\Debug\net8.0\Poo009.AssemblyInfo.cs
 C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\Poo009\Poo009\obj\Debug\net8.0\Poo009.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\Poo009\Poo009\obj\Debug\net8.0\Poo009.sourcelink.json
 C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\Poo009\Poo009\obj\Debug\net8.0\Poo009.dll
 C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\Poo009\Poo009\obj\Debug\net8.0\refint\Poo009.dll
 C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\Poo009\Poo009\obj\Debug\net8.0\Poo009.pdb
