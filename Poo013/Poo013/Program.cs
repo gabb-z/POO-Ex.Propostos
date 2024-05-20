@@ -31,7 +31,7 @@ for (int i = 1; i <= nProd; i++)
         //Instância de Obj. - Produto Usado
         listaProdutos.Add(new ProdutoUsado(nomeProd, precoProd, dataFab));
     }
-    else
+    else if (opcao == 'i' || opcao == 'I')
     {
         Console.Write("Taxa de alfândega: R$ ");
         double taxaAlf = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
@@ -46,5 +46,5 @@ Console.WriteLine("\nEtiqueta de Preços: ");
 
 foreach (Produto prod in listaProdutos)
 {
-    Console.WriteLine(prod.EtiquetaDePreço());
+    Console.WriteLine(prod.EtiquetaDePreco());
 }

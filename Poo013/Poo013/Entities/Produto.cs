@@ -16,7 +16,7 @@ namespace Poo013.Entities
         }
 
         //Função da Classe - Etiqueta de Preço
-        public virtual string EtiquetaDePreço()
+        public virtual string EtiquetaDePreco()
         {
             return NomeProduto + " - R$ " + Preco.ToString("F2", CultureInfo.InvariantCulture);
         }
